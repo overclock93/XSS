@@ -1,1 +1,1 @@
-alert(document.domain);
+alert('jQuery 1.11 Vulnerável - XSS\nResh Cyber Defense');
